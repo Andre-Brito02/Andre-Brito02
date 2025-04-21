@@ -8,10 +8,15 @@
  <li>HTML</li>
  <li>CSS</li>
 </ul>
-# Estudando: 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40">
+
           
-          
+Computer Science Student | Passionate About Technology and Development
+
+Currently pursuing a degree in Computer Science, I’m always looking to learn and gain new experiences in the tech field. I’m interested in software development, data structures, and artificial intelligence.
+
+Although I don't have professional experience yet, I’ve worked on academic and personal projects using languages such as Java, Python, and C. I also have knowledge in web development with HTML and CSS, and I’m improving my skills in frameworks for graphical interfaces.
+
+I’m open to internship opportunities and collaborations to expand my knowledge and contribute with innovative solutions. Let’s connect? 🚀        
  
  
           
